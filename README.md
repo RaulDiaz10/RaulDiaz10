@@ -1,5 +1,8 @@
 ## ¡Hola! 👋
 
+Soy Raúl Díaz Aguilar y tengo 20 años, actualmente estoy cursando la carrera de Ingeneria de en Sistemas Computacionales, a lo largo del curso he podido aprender e interesarme en varios temas, en lo personal me llama mucho la atencion el desarrollo web y las bases de datos.
+
+Soy una persona curiosa y siempre en busca de aprender algo nuevo. Me gusta pasar tiempo con mi familia y amigos; Me considero
 <!--
 **RaulDiaz10/RaulDiaz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
